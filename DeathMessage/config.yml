@@ -1,0 +1,7 @@
+enabled: true
+dropItens: true
+keepInventory: false
+droppedXp: 0
+
+morreuSozinho: "&7%player% &emorreu sozinho."
+morreuPor: "&7%player% &emorreu por &7%killer%"
